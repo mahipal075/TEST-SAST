@@ -10,6 +10,7 @@ Publisher: O'Reilly
 //a sample main() method to test the splash screen, but it's meant for use
 //with other applications.
 //
+//Test comment
 
 import java.awt.BorderLayout;
 import java.awt.Color;
